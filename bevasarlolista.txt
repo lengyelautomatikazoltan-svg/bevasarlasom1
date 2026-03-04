@@ -2,3 +2,5 @@ körte
 alma 
 szilva
 kóla
+cukor 
+csoki
